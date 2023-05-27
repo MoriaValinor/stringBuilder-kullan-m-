@@ -1,0 +1,17 @@
+C:\Users\AKGUL\Desktop\şifre oluşturma\STRINGBUILDER ile ŞİFRE OLUŞTURMA\bin\Debug\net6.0-windows\STRINGBUILDER ile ŞİFRE OLUŞTURMA.exe
+C:\Users\AKGUL\Desktop\şifre oluşturma\STRINGBUILDER ile ŞİFRE OLUŞTURMA\bin\Debug\net6.0-windows\STRINGBUILDER ile ŞİFRE OLUŞTURMA.deps.json
+C:\Users\AKGUL\Desktop\şifre oluşturma\STRINGBUILDER ile ŞİFRE OLUŞTURMA\bin\Debug\net6.0-windows\STRINGBUILDER ile ŞİFRE OLUŞTURMA.runtimeconfig.json
+C:\Users\AKGUL\Desktop\şifre oluşturma\STRINGBUILDER ile ŞİFRE OLUŞTURMA\bin\Debug\net6.0-windows\STRINGBUILDER ile ŞİFRE OLUŞTURMA.dll
+C:\Users\AKGUL\Desktop\şifre oluşturma\STRINGBUILDER ile ŞİFRE OLUŞTURMA\bin\Debug\net6.0-windows\STRINGBUILDER ile ŞİFRE OLUŞTURMA.pdb
+C:\Users\AKGUL\Desktop\şifre oluşturma\STRINGBUILDER ile ŞİFRE OLUŞTURMA\obj\Debug\net6.0-windows\STRINGBUILDER ile ŞİFRE OLUŞTURMA.csproj.AssemblyReference.cache
+C:\Users\AKGUL\Desktop\şifre oluşturma\STRINGBUILDER ile ŞİFRE OLUŞTURMA\obj\Debug\net6.0-windows\STRINGBUILDER_ile_ŞİFRE_OLUŞTURMA.Form1.resources
+C:\Users\AKGUL\Desktop\şifre oluşturma\STRINGBUILDER ile ŞİFRE OLUŞTURMA\obj\Debug\net6.0-windows\STRINGBUILDER ile ŞİFRE OLUŞTURMA.csproj.GenerateResource.cache
+C:\Users\AKGUL\Desktop\şifre oluşturma\STRINGBUILDER ile ŞİFRE OLUŞTURMA\obj\Debug\net6.0-windows\STRINGBUILDER ile ŞİFRE OLUŞTURMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKGUL\Desktop\şifre oluşturma\STRINGBUILDER ile ŞİFRE OLUŞTURMA\obj\Debug\net6.0-windows\STRINGBUILDER ile ŞİFRE OLUŞTURMA.AssemblyInfoInputs.cache
+C:\Users\AKGUL\Desktop\şifre oluşturma\STRINGBUILDER ile ŞİFRE OLUŞTURMA\obj\Debug\net6.0-windows\STRINGBUILDER ile ŞİFRE OLUŞTURMA.AssemblyInfo.cs
+C:\Users\AKGUL\Desktop\şifre oluşturma\STRINGBUILDER ile ŞİFRE OLUŞTURMA\obj\Debug\net6.0-windows\STRINGBUILDER ile ŞİFRE OLUŞTURMA.csproj.CoreCompileInputs.cache
+C:\Users\AKGUL\Desktop\şifre oluşturma\STRINGBUILDER ile ŞİFRE OLUŞTURMA\obj\Debug\net6.0-windows\STRINGBUILDER ile ŞİFRE OLUŞTURMA.dll
+C:\Users\AKGUL\Desktop\şifre oluşturma\STRINGBUILDER ile ŞİFRE OLUŞTURMA\obj\Debug\net6.0-windows\refint\STRINGBUILDER ile ŞİFRE OLUŞTURMA.dll
+C:\Users\AKGUL\Desktop\şifre oluşturma\STRINGBUILDER ile ŞİFRE OLUŞTURMA\obj\Debug\net6.0-windows\STRINGBUILDER ile ŞİFRE OLUŞTURMA.pdb
+C:\Users\AKGUL\Desktop\şifre oluşturma\STRINGBUILDER ile ŞİFRE OLUŞTURMA\obj\Debug\net6.0-windows\STRINGBUILDER ile ŞİFRE OLUŞTURMA.genruntimeconfig.cache
+C:\Users\AKGUL\Desktop\şifre oluşturma\STRINGBUILDER ile ŞİFRE OLUŞTURMA\obj\Debug\net6.0-windows\ref\STRINGBUILDER ile ŞİFRE OLUŞTURMA.dll
